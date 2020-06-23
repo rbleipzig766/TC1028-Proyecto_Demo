@@ -15,3 +15,14 @@ espero les sea de ayuda :D
 Las pruebas de PISA son aplicadas cada tres años. Examinan el rendimiento de alumnos de 15 años en áreas temáticas clave y estudian igualmente una gama amplia de resultados educativos, entre los que se encuentran: la motivación de los alumnos por aprender, la concepción que éstos tienen sobre sí mismos y sus estrategias de aprendizaje. Cada una de las tres evaluaciones pasadas de PISA se centró en un área temática concreta: la lectura (en 2000), las matemáticas (en 2003) y las ciencias (en 2006); siendo la resolución de problemas un área temática especial en PISA 2003. El programa está llevando a cabo una segunda fase de evaluaciones en el 2009 (lectura), 2012 (matemáticas) y 2015 (ciencias)." fuente https://www.oecd.org/pisa/pisaenespaol.htm
 
 Este programa es un generador de preguntas aleatorias para multiplicaciones y matrices, basándose en la temática de PISA.  El programa corre en terminal con Python 3. Presenta una serie de preguntas y compara el resultado por el calculado con la computadora. Al final, asigna una calificación al usuario y le permite guardar sus resultados en un archivo de texto y desplegar todos los resultados ahí guardados también.
+
+
+### Instrucciones
+
+Descargar el arvhivo y correr en terminal con:
+
+    python pisa.py
+
+o abrir en Thonny y dar boton de play.
+
+Responder a las preguntas que aparecen, el programa tiene instrucciones y no usa bibliotecas no standard. 
